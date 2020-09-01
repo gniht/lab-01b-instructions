@@ -11,6 +11,7 @@
   - But you have way less power
     - And it, uhhh, only works in github and a few other places
 You can _italicize_ characters or **bold** them.
+
 Header 1 | Header 2
 :--|--:
 Words | 1
